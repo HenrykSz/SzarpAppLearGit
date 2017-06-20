@@ -11,6 +11,12 @@ namespace CszarpCappGitLearn
 		static void Main(string[] args)
 		{
 			Console.WriteLine("pierwsza zmiana");
+			PewnaNowaFunkcja();
+
+		}
+		private static void PewnaNowaFunkcja()
+		{
+
 		}
 	}
 }
