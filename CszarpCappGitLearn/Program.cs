@@ -18,5 +18,14 @@ namespace CszarpCappGitLearn
 		{
 
 		}
+
+		private void malaAleZnaczacaZmianaWMain()
+		{
+			//nono
+		}
+		private  static void zmiana2()
+		{
+			//dalasza implementacja
+		}
 	}
 }
