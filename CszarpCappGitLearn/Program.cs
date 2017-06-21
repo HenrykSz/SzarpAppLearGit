@@ -12,5 +12,9 @@ namespace CszarpCappGitLearn
 		{
 			Console.WriteLine("pierwsza zmiana");
 		}
+		private  static void zmiana2()
+		{
+
+		}
 	}
 }
