@@ -12,5 +12,10 @@ namespace CszarpCappGitLearn
 		{
 			Console.WriteLine("pierwsza zmiana");
 		}
+
+		private void malaAleZnaczacaZmianaWMain()
+		{
+			//nono
+		}
 	}
 }
