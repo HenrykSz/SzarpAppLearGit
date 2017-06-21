@@ -14,7 +14,7 @@ namespace CszarpCappGitLearn
 		}
 		private  static void zmiana2()
 		{
-
+			//dalasza implementacja
 		}
 	}
 }
